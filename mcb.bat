@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\RelearnProgramming\Python\Automation\mcb.pyw %*
